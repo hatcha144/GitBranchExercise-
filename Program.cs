@@ -15,5 +15,17 @@ namespace GitBranchExercise
             Console.WriteLine("Your number is {0}", userInput);
             Console.ReadLine();
         }
-    }
+        public static int DisplayNum(string input)
+        {
+            try
+            {
+                //checks for a number
+                return int.Parse(input);
+            }
+            catch
+            {
+                Console.WriteLine("That is not a valid input.");
+            }
+            return DisplayNum;
+        }
 }
