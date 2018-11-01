@@ -1,0 +1,7 @@
+C:\Users\mfilice\source\repos\GitBranchExercise\GitBranchExercise\bin\Debug\GitBranchExercise.exe.config
+C:\Users\mfilice\source\repos\GitBranchExercise\GitBranchExercise\bin\Debug\GitBranchExercise.exe
+C:\Users\mfilice\source\repos\GitBranchExercise\GitBranchExercise\bin\Debug\GitBranchExercise.pdb
+C:\Users\mfilice\source\repos\GitBranchExercise\GitBranchExercise\obj\Debug\GitBranchExercise.csprojAssemblyReference.cache
+C:\Users\mfilice\source\repos\GitBranchExercise\GitBranchExercise\obj\Debug\GitBranchExercise.csproj.CoreCompileInputs.cache
+C:\Users\mfilice\source\repos\GitBranchExercise\GitBranchExercise\obj\Debug\GitBranchExercise.exe
+C:\Users\mfilice\source\repos\GitBranchExercise\GitBranchExercise\obj\Debug\GitBranchExercise.pdb
